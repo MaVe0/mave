@@ -36,6 +36,8 @@ pie(
 )
 ```
 
+TEST PLOT
+
 ```{r bla, fig.cap='COVID-19 infections since March 2020', tidy=FALSE}
 read.csv("https://opendata.ecdc.europa.eu/covid19/casedistribution/csv", 
                  na.strings = "", 
