@@ -35,3 +35,21 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+```{r bla, fig.cap='COVID-19 infections since March 2020', tidy=FALSE}
+read.csv("https://opendata.ecdc.europa.eu/covid19/casedistribution/csv", 
+                 na.strings = "", 
+                 fileEncoding = "UTF-8-BOM") %>%
+  rename(date = dateRep, cnt = countriesAndTerritories, pop = popData2019) %>%
+  mutate(date = lubridate::dmy(date),
+         relcases = cases/pop*100000) %>%
+  arrange(cnt, date) %>%
+  mutate(relcases_7 = rm(relcases)) %>%
+  filter(cnt %in% c("Switzerland", "Germany", "France", "Italy", "Austria"),
+         date > "2020-03-01") +
+  ggplot(aes(x = date, y = relcases_7, color = factor(cnt))) +
+  geom_line()
+```
+
+
+
