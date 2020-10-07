@@ -22,7 +22,7 @@ fit <- lm(dist ~ speed, data = cars)
 fit
 ```
 
-# Including Plots
+# Including Plots BLA BLA
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
@@ -36,7 +36,7 @@ pie(
 )
 ```
 
-TEST PLOT
+TEST PLOT 2
 
 ```{r bla, fig.cap='COVID-19 infections since March 2020', tidy=FALSE}
 read.csv("https://opendata.ecdc.europa.eu/covid19/casedistribution/csv", 
