@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "_MaVe_"
+      logoText = "_aVe_"
       logoHomeLink = "/"
 
     [languages.en.menu]
