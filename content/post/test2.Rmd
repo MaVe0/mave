@@ -1,0 +1,19 @@
+---
+title: "Again a test post"
+author: "Martin Verner"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "test tag", "regression"]
+---
+
+# First R Markdown post
+
+This is my first R markdown post. Here a link to [google](www.google.com).
+
+Here a small plot:
+
+```{r}
+# All defaults
+ggplot(cars, aes(speed, dist)) + geom_point()
+```
+
