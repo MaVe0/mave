@@ -6,14 +6,17 @@ categories: ["R"]
 tags: ["R Markdown", "test tag", "regression"]
 ---
 
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+```
+
 # First R Markdown post
 
 This is my first R markdown post. Here a link to [google](www.google.com).
 
 Here a small plot:
 
-```{r}
-# All defaults
+```{r, echo=FALSE}
 ggplot(cars, aes(speed, dist)) + geom_point()
 ```
 
