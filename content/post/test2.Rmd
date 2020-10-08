@@ -20,3 +20,6 @@ Here a small plot:
 ggplot(cars, aes(speed, dist)) + geom_point()
 ```
 
+Here an embeded shiny app that might be quite slow:
+
+<iframe src="http://212.237.210.137:3838/sample_comp_alluvial/"> </iframe>
