@@ -22,4 +22,4 @@ ggplot(cars, aes(speed, dist)) + geom_point()
 
 Here an embeded shiny app that might be quite slow:
 
-<iframe src="http://212.237.210.137:3838/sample-apps/rmd/"> </iframe>
+<iframe src="https://liuyanguu.shinyapps.io/bcl_app/" width=1000 height=800"></iframe>
