@@ -8,6 +8,8 @@ tags: ["R Markdown", "test tag", "regression"]
 
 ```{r echo=FALSE, message=FALSE}
 library(tidyverse)
+library(widgetframe)
+library(shiny)
 ```
 
 # First R Markdown post
