@@ -4,6 +4,8 @@ author: "Martin Verner"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "test tag", "regression"]
+runtime: shiny
+output: html_document
 ---
 
 ```{r echo=FALSE, message=FALSE}
