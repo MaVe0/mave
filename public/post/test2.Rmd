@@ -27,5 +27,5 @@ ggplot(cars, aes(speed, dist)) + geom_point()
 Here an embeded shiny app that might be quite slow:
 
 
-<iframe scrolling="no" frameborder="no"  
+<iframe width="800" height="600" scrolling="no" frameborder="no"  
 src="https://maveshiny.tk/covid_cases_by_continent/"> </iframe>
