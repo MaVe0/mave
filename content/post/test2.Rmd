@@ -1,9 +1,9 @@
 ---
-title: "Test"
+title: "Again a test post"
 author: "Martin Verner"
-date: 2020-10-27T21:13:14-05:00
+date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
-tags: ["COVID-19", "R shiny"]
+tags: ["R Markdown", "test tag", "regression"]
 runtime: shiny
 output: html_document
 ---
@@ -14,7 +14,17 @@ library(widgetframe)
 library(shiny)
 ```
 
-Shiny app test:
+# First R Markdown post
+
+This is my first R markdown post. Here a link to [google](www.google.com).
+
+Here a small plot:
+
+```{r, echo=FALSE}
+ggplot(cars, aes(speed, dist)) + geom_point()
+```
+
+Here an embeded shiny app that might be quite slow:
 
 <iframe width="800" height="600" scrolling="no" frameborder="no"  
 src="https://maveshiny.tk/covid_cases_by_continent/"> </iframe>
