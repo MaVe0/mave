@@ -15,6 +15,19 @@ library(shiny)
 ```
 
 # First R Markdown post
+<<<<<<< HEAD
+=======
+
+This is my first R markdown post. Here a link to [google](www.google.com).
+
+Here a small plot:
+
+```{r, echo=FALSE}
+ggplot(cars, aes(speed, dist)) + geom_point()
+```
+
+Here an embeded shiny app that might be quite slow:
+>>>>>>> parent of 76cb7b0... test
 
 This is my first R markdown post. Here a link to [google](www.google.com).
 

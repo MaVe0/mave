@@ -14,7 +14,10 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/test2/</guid>
-      <description>First R Markdown postThis is my first R markdown post. Here a link to google.
+      <description>First R Markdown post&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEADThis is my first R markdown post. Here a link to google.
+Here a small plot:
+Here an embeded shiny app that might be quite slow:&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; parent of 76cb7b0… test
+This is my first R markdown post. Here a link to google.
 Here a small plot:
 Here an embeded shiny app that might be quite slow:
 </description>
