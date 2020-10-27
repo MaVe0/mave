@@ -35,5 +35,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>test tag</title>
+      <link>/tags/test-tag/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/test-tag/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
