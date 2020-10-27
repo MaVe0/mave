@@ -13,12 +13,27 @@
   </url>
   
   <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-10-27T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-10-27T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
+    <lastmod>2020-10-27T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-shiny/</loc>
+    <lastmod>2020-10-27T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-10-27T21:13:14-05:00</lastmod>
   </url>
   
@@ -39,10 +54,6 @@
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
