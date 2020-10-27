@@ -16,6 +16,5 @@ library(shiny)
 
 Shiny app test:
 
-
 <iframe width="800" height="600" scrolling="no" frameborder="no"  
 src="https://maveshiny.tk/covid_cases_by_continent/"> </iframe>
