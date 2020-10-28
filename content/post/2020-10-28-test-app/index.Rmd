@@ -1,0 +1,22 @@
+---
+title: Test App
+author: Martin Verner
+date: '2020-10-28'
+slug: test-app
+categories:
+  - R
+tags:
+  - R Markdown
+authorTwitter: ''
+cover: ''
+description: ''
+keywords:
+  - ''
+  - ''
+showFullContent: no
+---
+
+Here an embeded shiny app that might be quite slow:
+
+<iframe width="800" height="600" scrolling="no" frameborder="no"  
+src="https://maveshiny.tk/covid_cases_by_continent/"> </iframe>
