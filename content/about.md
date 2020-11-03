@@ -1,22 +1,7 @@
 ---
-author: Radek
-date: "2019-01-25"
+author: Martin
+date: "2020-11-03"
 title: About
 ---
 
-# Hi there
-
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
-
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+This page is primarily intended to further develop my knowledge in the areas of web server configuration, data visualisation and programming of R Shiny applications. The data presented here are mostly freely available on the internet and can refer to various topics and areas: Besides my professional engagement in educational research, I am interested in natural sciences, technology, video games and music. Updates are probably made at very irregular intervals. Since I expect very few visitors, I have deliberately not added a comment function. If you are here because of very specific searches and have questions about content or code, feel free to contact me by [email](mailto:mv@tinoo.ch) or browse my [GitHub repos](https://github.com/MaVe0/mave).
